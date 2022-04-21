@@ -1,2 +1,2 @@
 # Mask-Detection-System
-mask detection system githhub repo
+mask detection system githhub repository 
